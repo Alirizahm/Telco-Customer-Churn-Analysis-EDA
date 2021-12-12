@@ -72,14 +72,14 @@ Findings:
 In the PaperlessBilling variable, customers who use Paperless Billing have a high percentage of not continuing to subscribe (Churn Yes) when compared to customers who do not use Paperless Billing
 
 #### Checking the Churn variable relationship with PaymentMethod variable
-![download (1)](https://user-images.githubusercontent.com/92624520/145716032-8b837ee3-f06b-4c05-98e1-156294786733.png)
+![download (10)](https://user-images.githubusercontent.com/92624520/145720152-7768dcb1-01ca-4604-a1ed-366fb7e18baa.png)
 
 Finding:
 
 In the variable PaymentMethod, customers who choose the electronic check payment method are more likely to discontinue subscribing (Churn Yes) and are the highest percentage of other payment methods that do not continue to subscribe
 
 ### Checking the Churn variable relationship with the Contract variable, and MonthlyCharges
-![download (9)](https://user-images.githubusercontent.com/92624520/145720087-7898d8fc-b75b-44f3-b6e9-8e989be4b483.png)
+![download (11)](https://user-images.githubusercontent.com/92624520/145720232-6ce2964e-35a1-48d2-8164-1adced47d0cd.png)
 
 Finding:
 
