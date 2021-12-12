@@ -63,3 +63,6 @@ Findings:
 - Fiber Optic internet service has a high percentage of customers who do not continue to subscribe (Churn Yes), which indicates that the service is not good
 - Customers who do not use services such as Online Security, Tech Support, Online Backup, and Device Protection are more likely to discontinue their subscription (Churn Yes) which means that these services may affect customers to continue to subscribe (Churn No)
 - Customers who do not use both Streaming TV and Streaming Movies services have a high percentage in which the customers are more likely to discontinue subscribing (Churn Yes). However, if we carried out to re-rechecking, customers who choose to use these services but do not continue to subscribe (Churn Yes) also have a similar percentage with customers who do not use the service and do not continue to subscribe (Churn Yes) 
+
+
+aaaaa
